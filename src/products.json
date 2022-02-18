@@ -1,0 +1,33 @@
+[
+    {
+        "name":"Apple Watch Series 7, 45",
+        "category": "Часы",
+        "price": 35990,
+        "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-experience-for-entire-family-hero_09152020_big.jpg.large.jpg"
+    },
+    {
+        "name":"iPhone 13",
+        "category": "Телефон",
+        "price": 79990,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842712000"
+    },
+    {
+        "name":"iPad Pro M1",
+        "category": "Планшет",
+        "price": 77990,
+        "image": "https://www.notebookcheck-ru.com/fileadmin/Notebooks/Apple/iPad_Mini_6/IMG_0787.jpg"
+    },
+    {
+        "name":"macbook pro",
+        "category": "Ноудбук",
+        "price": 139990,
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-mbp13touchbar-performance-space-gallery-2020?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1591921674000"
+    },
+    {
+        "name":"AirPods Pro",
+        "category": "Наушники",
+        "price": 22490 ,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000"
+    }
+
+]
