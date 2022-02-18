@@ -1,16 +1,13 @@
-# test_task
+Приложение Магазин Apple
 
-A new Flutter project.
+Приложение должно отображать список устройств Apple, доступных в магазине.
 
-## Getting Started
+Функционал приложения:
 
-This project is a starting point for a Flutter application.
+Приложение должно отображать каталог устройств в виде карточек, не менее 5 единиц.
 
-A few resources to get you started if this is your first Flutter project:
+На карточке должна быть информация об устройстве - название, цена, цвет, тип устройства(телефон, планшет, ПК).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Изображения желательны.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Каталог устройств должен загружаться из файла ресурсов приложения в формате json.
